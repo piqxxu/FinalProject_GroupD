@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735303458 source:c:\c++\tubesgroupd\main.cpp
+	"Graph.h"
+
+1735303734 c:\c++\tubesgroupd\graph.h
+	<iostream>
+
+1735303340 source:c:\c++\tubesgroupd\graph.cpp
+	"Graph.h"
+
