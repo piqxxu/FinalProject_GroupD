@@ -98,6 +98,7 @@ Iterasi semua vertex mulai dari head.
 Hitung jumlah edge dari setiap vertex.
 Jika jumlah edge lebih besar dari nilai maksimum sebelumnya, perbarui nilai maksimum dan nama vertex.
 Setelah selesai, tampilkan nama vertex dengan jumlah edge terbanyak.
+
 Algoritma Main Program
 Tambahkan beberapa vertex menggunakan insertVertex.
 Tambahkan beberapa jalur menggunakan tambahJalur.
